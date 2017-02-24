@@ -1,0 +1,12 @@
+{
+  "ID": "99458899586B4892884F7064D6740741",   
+  "ActionKeyword": "pl",                     
+  "Name": "PluginsList",                              
+  "Description": "Show all installed plugins in wox with our action keyword.",   
+  "Author": "bluray",                    
+  "Version": "1.0.0",                         
+  "Language": "csharp",                      
+  "Website": "https://github.com/vladimirantos/Wox.Plugins.PluginsList",        
+  "IcoPath": "icon.png",              
+  "ExecuteFileName": "Wox.Plugins.PluginsList.dll"   
+}
